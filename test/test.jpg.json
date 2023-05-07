@@ -1,0 +1,36 @@
+{
+  "title": "test.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1463968692",
+    "formatted": "23 May 2016, 01:58:12 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462725720",
+    "formatted": "8 May 2016, 16:42:00 UTC"
+  },
+  "geoData": {
+    "latitude": 38.7686111,
+    "longitude": -9.1283333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 38.7686111,
+    "longitude": -9.1283333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/myurl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
